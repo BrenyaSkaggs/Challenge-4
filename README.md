@@ -12,6 +12,7 @@ We are removing one grade from Thomas High School (THS)while keeping the rest of
 o	How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
 The percent for each score went up which would put THS in the top eight schools that have a passing math and passing reading above ninety percent.
 
+
 Before
 ![this is an image](https://raw.githubusercontent.com/BrenyaSkaggs/School_District_Analysis/main/Practice/THS%20with%20all%20students.png)
 
@@ -19,9 +20,12 @@ After
 ![This is an image](https://raw.githubusercontent.com/BrenyaSkaggs/School_District_Analysis/main/Practice/THS%20with%2010-12%20grade.png)
 
 
+
+
 o	How does replacing the ninth-grade scores affect the following:
+
   -Math and reading scores by grade
-    Math and reading scores for the 10th-12th graders increased. 
+   Math and reading scores for the 10th-12th graders increased. 
 
   -Scores by school spending
    Schools that had a higher spending range(per student) had a lower overall passing percentge compared to the schools that has a lower spending range.
