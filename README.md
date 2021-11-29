@@ -13,9 +13,11 @@ o	How does replacing the ninth graders’ math and reading scores affect Thomas 
 The percent for each score went up which would put THS in the top eight schools that have a passing math and passing reading above ninety percent.
 
 ** Before 
+
 ![this is an image]( THS with all students.png (982×633) (raw.githubusercontent.com))
 
 ** After
+
 ![This is an image]( THS with 10-12 grade.png (1006×646) (raw.githubusercontent.com))
 
 
