@@ -24,14 +24,13 @@ After
 
 o	How does replacing the ninth-grade scores affect the following:
 
-  *Math and reading scores by grade
-  
+  * Math and reading scores by grade
    Math and reading scores for the 10th-12th graders increased. 
 
-  *Scores by school spending
+  * Scores by school spending
    Schools that had a higher spending range(per student) had a lower overall passing percentge compared to the schools that has a lower spending range.
 
-  *Scores by school type
+  * Scores by school type
    Smaller schools with 1,000 or less students had the highest overall passing percentage. Aside from that you can see that chartered schools had the highest overall passing p  
    Percentage.
 
