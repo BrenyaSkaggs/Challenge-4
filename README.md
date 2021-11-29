@@ -25,6 +25,7 @@ After
 o	How does replacing the ninth-grade scores affect the following:
 
   *Math and reading scores by grade
+  
    Math and reading scores for the 10th-12th graders increased. 
 
   *Scores by school spending
